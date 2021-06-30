@@ -1,2 +1,4 @@
 # test-semver-branch
-change
+
+feat: super awesome card
+feat: calendar that tells the future
