@@ -1,6 +1,6 @@
 module.exports = {
     branches: [
-        master,
+        "main",
         { name: 'next', channel: 'next', prerelease: 'next' }, 
     ],
     repositoryUrl: 'https://github.com/whattheearl/test-semver-branch',
